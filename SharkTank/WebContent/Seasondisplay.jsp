@@ -30,6 +30,5 @@ for(int i=0;i<mylist1.size();i++){
 </table>
 <%} %>
 </center>
-
 </body>
 </html>

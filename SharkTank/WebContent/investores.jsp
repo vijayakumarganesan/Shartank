@@ -5,13 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Investores</title>
-<h1>Shark Tank filter form</h1>
+<h1 align="center">Shark Tank filter form</h1>
 </head>
-<body bg color="#4CAF50">
 <center>
+<body bgcolor="#4CAF50">
+
 <p>A user of this web platform, should be able to filter the results/companies by season, investor,
 investment amount, entrepreneur gender etc</p>
-<form action="" method="post">
+<form action="RowFilter" method="post">
 Enter investor id(Row):<input type="text" placeholder="enter row id" name="row"><br>
 <input type="submit" value="filter">
 </form>
